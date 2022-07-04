@@ -6,4 +6,4 @@ AutoSprint Plugin for PocketMine-MP
 - Lightweight Plugin
 
 # Commands
-Command ```/autosprint``` and ```/as```
+```/autosprint``` and ```/as```
