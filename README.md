@@ -7,3 +7,6 @@ AutoSprint Plugin for PocketMine-MP
 
 # Commands
 ```/autosprint``` and ```/as```
+
+# Permissions
+```autosprint.use``` accessible to everyone (default: true)
