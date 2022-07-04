@@ -5,4 +5,5 @@ branches:
 projects:
   AutoSprint:
     path: ""
+    icon: "icon.png"
 ...
