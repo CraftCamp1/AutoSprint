@@ -49,7 +49,7 @@ public static array $sprint = [];
         if ($event->getPacket()->pid() === PlayerAuthInputPacket::NETWORK_ID) {
             if (in_array($player->getName(), self::$sprint)) {
                 if($player->isSprinting() && $packet->hasFlag(PlayerAuthInputFlags::DOWN)){
-                            $origin->setSprinting(false);
+                            $player->setSprinting(false);
                 }elseif(!$player->isSprinting() && $packet->hasFlag(PlayerAuthInputFlags::UP)){
                             $player->setSprinting();
                         }
