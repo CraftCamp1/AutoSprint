@@ -18,10 +18,7 @@ class Main extends PluginBase implements Listener {
 
 public static array $sprint = [];
 
-protected static self $main;
-
     public function onEnable() : void {
-        self::$main = $this;
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
     }
 
