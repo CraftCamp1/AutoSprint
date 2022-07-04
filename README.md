@@ -1,5 +1,5 @@
 # AutoSprint
-[![License](https://img.shields.io/github/license/CraftCamp1/AutoSprint)]
+[![License](https://img.shields.io/github/license/CraftCamp1/AutoSprint.svg)]
 AutoSprint Plugin for PocketMine-MP
 
 # Features
