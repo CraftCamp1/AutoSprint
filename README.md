@@ -1,2 +1,9 @@
 # AutoSprint
-AutoSprint Plugin for Pocketmine API4
+AutoSprint Plugin for PocketMine-MP
+
+# Features
+- Toggle on/off AutoSprint
+- Lightweight Plugin
+
+# Commands
+Command ```/autosprint``` and ```/as```
