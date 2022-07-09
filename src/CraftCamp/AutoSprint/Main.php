@@ -1,6 +1,6 @@
 <?php
 
-namespace AutoSprint;
+namespace CraftCamp\AutoSprint;
 
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
